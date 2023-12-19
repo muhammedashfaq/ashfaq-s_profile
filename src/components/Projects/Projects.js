@@ -32,7 +32,7 @@ function Projects() {
               description="Using MERN stack, a small online delivery management platform that streamlines shipment booking and tracking was created. For effective management of massive volumes, safe payment processing, and task delegation, the platform has a dedicated hub.
               "
               ghLink="https://github.com/muhammedashfaq/DMS-DeliveryManagementSystem.git"
-              demoLink="https://hrlogistics.netlify.app/"
+              demoLink="https://github.com/muhammedashfaq/DMS-DeliveryManagementSystem.git"
             />
           </Col>
 
